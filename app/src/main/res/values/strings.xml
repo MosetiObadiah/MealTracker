@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MealTracker</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="or">or</string>
+    <string name="sign_in_with_apple">Sign in with Apple</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="meal_tracker">Meal Tracker</string>
+    <string name="log_in_or_sign_up_for_free">Log in or sign up for free</string>
+    <string name="todo">TODO</string>
+    <string name="login">login</string>
+    <string name="other">Other</string>
+    <string name="cooking">Cooking</string>
+    <string name="mess">Mess</string>
+    <string name="food4">food4</string>
+    <string name="food2">food2</string>
+    <string name="winners">Winners</string>
+    <string name="lakers">Lakers</string>
+    <string name="midcity">MidCity</string>
+    <string name="choose_where_you_are_eating">choose where you are eating</string>
+    <string name="food5">food5</string>
+    <string name="food3">food3</string>
+    <string name="food1">food1</string>
+    <string name="choose_what_you_are_eating">choose what you are eating</string>
+    <string name="morning">Morning</string>
+    <string name="home">HOME</string>
+    <string name="view_eating_record">View Eating Record</string>
+    <string name="save">Save</string>
+    <string name="hotel">Hotel</string>
+</resources>
