@@ -1,4 +1,4 @@
-MealTracker
+##MealTracker
 
 This Android application allows you to effortlessly track your food intake, including the source and associated expenditure. Gain valuable insights into your eating habits and manage your spending effectively.
 
